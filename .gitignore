@@ -1,0 +1,10 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment and sensitive files
+.env
+
+# Ignore FAISS index if large
+faiss_index/
