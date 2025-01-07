@@ -4,6 +4,7 @@ The PDF chatting is a Python application that allows you to chat with multiple P
 
 ## How It Works
 ------------
+Video of working streamlit app- https://drive.google.com/file/d/1hLdr3Vjur8bRypBm0Y69MX6XX0AHcR9v/view?usp=drive_link
 
 The application follows these steps to provide responses to your questions:
 
