@@ -2,6 +2,12 @@
 ------------
 The PDF chatting is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
+## Screenshot of the App
+
+Here is a screenshot of the app in action:
+
+![App Screenshot](Screenshot%20pdf%20chatting.png)
+
 ## How It Works
 ------------
 Video of working streamlit app- https://drive.google.com/file/d/1hLdr3Vjur8bRypBm0Y69MX6XX0AHcR9v/view?usp=drive_link
